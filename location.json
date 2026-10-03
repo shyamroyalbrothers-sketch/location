@@ -1,0 +1,254 @@
+{
+  "states": [
+    {
+      "state": "Maharashtra",
+      "cities": [
+        {
+          "city": "Mumbai",
+          "locations": ["Andheri", "Bandra", "Powai", "Thane"]
+        },
+        {
+          "city": "Pune",
+          "locations": ["Hinjewadi", "Kharadi", "Wakad", "Baner"]
+        },
+        {
+          "city": "Nagpur",
+          "locations": ["Dharampeth", "Manish Nagar", "Sitabuldi", "Wardha Road"]
+        },
+        {
+          "city": "Nashik",
+          "locations": ["Gangapur Road", "College Road", "Panchavati", "Indira Nagar"]
+        },
+        {
+          "city": "Aurangabad",
+          "locations": ["CIDCO", "Garkheda", "Waluj", "Beed Bypass"]
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "cities": [
+        {
+          "city": "Bengaluru",
+          "locations": ["Whitefield", "Koramangala", "Indiranagar", "Electronic City"]
+        },
+        {
+          "city": "Mysuru",
+          "locations": ["Vijayanagar", "Hebbal", "Kuvempunagar", "Jayalakshmipuram"]
+        },
+        {
+          "city": "Mangaluru",
+          "locations": ["Kadri", "Bejai", "Kottara", "Hampankatta"]
+        },
+        {
+          "city": "Hubballi",
+          "locations": ["Gokul Road", "Vidya Nagar", "Keshwapur", "Old Hubballi"]
+        },
+        {
+          "city": "Belagavi",
+          "locations": ["Tilakwadi", "Sadashiv Nagar", "Shahapur", "Angol"]
+        }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "cities": [
+        {
+          "city": "Chennai",
+          "locations": ["Adyar", "Anna Nagar", "T Nagar", "Velachery"]
+        },
+        {
+          "city": "Coimbatore",
+          "locations": ["Gandhipuram", "RS Puram", "Peelamedu", "Saibaba Colony"]
+        },
+        {
+          "city": "Madurai",
+          "locations": ["Anna Nagar", "KK Nagar", "Mattuthavani", "Thirunagar"]
+        },
+        {
+          "city": "Tiruchirappalli",
+          "locations": ["Srirangam", "Thillai Nagar", "Woraiyur", "Cantonment"]
+        },
+        {
+          "city": "Salem",
+          "locations": ["Fairlands", "Hasthampatti", "Suramangalam", "Ammapet"]
+        }
+      ]
+    },
+    {
+      "state": "Telangana",
+      "cities": [
+        {
+          "city": "Hyderabad",
+          "locations": ["Hitech City", "Banjara Hills", "Gachibowli", "Kukatpally"]
+        },
+        {
+          "city": "Warangal",
+          "locations": ["Hanamkonda", "Kazipet", "Subedari", "Nakkalagutta"]
+        },
+        {
+          "city": "Nizamabad",
+          "locations": ["Vinayak Nagar", "Dwaraka Nagar", "Kanteshwar", "Mubarak Nagar"]
+        },
+        {
+          "city": "Karimnagar",
+          "locations": ["Vidya Nagar", "Mankammathota", "Kothirampur", "Subhash Nagar"]
+        },
+        {
+          "city": "Khammam",
+          "locations": ["Wyra Road", "Nehru Nagar", "Mamata Road", "Balapet"]
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "cities": [
+        {
+          "city": "Ahmedabad",
+          "locations": ["Navrangpura", "Satellite", "Bopal", "Maninagar"]
+        },
+        {
+          "city": "Surat",
+          "locations": ["Adajan", "Vesu", "Varachha", "Katargam"]
+        },
+        {
+          "city": "Vadodara",
+          "locations": ["Alkapuri", "Manjalpur", "Gotri", "Sayajigunj"]
+        },
+        {
+          "city": "Rajkot",
+          "locations": ["Kalawad Road", "Raiya Road", "University Road", "150 Feet Ring Road"]
+        },
+        {
+          "city": "Gandhinagar",
+          "locations": ["Sector 11", "Sector 21", "Infocity", "Kudasan"]
+        }
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "cities": [
+        {
+          "city": "Jaipur",
+          "locations": ["Malviya Nagar", "Vaishali Nagar", "Mansarovar", "C-Scheme"]
+        },
+        {
+          "city": "Jodhpur",
+          "locations": ["Sardarpura", "Ratanada", "Paota", "Shastri Nagar"]
+        },
+        {
+          "city": "Udaipur",
+          "locations": ["Hiran Magri", "Fatehpura", "Surajpole", "Bhuwana"]
+        },
+        {
+          "city": "Kota",
+          "locations": ["Talwandi", "Mahaveer Nagar", "Dadabari", "Vigyan Nagar"]
+        },
+        {
+          "city": "Ajmer",
+          "locations": ["Vaishali Nagar", "Civil Lines", "Panchsheel Nagar", "Adarsh Nagar"]
+        }
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "cities": [
+        {
+          "city": "Kolkata",
+          "locations": ["Salt Lake", "Park Street", "New Town", "Ballygunge"]
+        },
+        {
+          "city": "Siliguri",
+          "locations": ["Sevoke Road", "Hill Cart Road", "Matigara", "Pradhan Nagar"]
+        },
+        {
+          "city": "Durgapur",
+          "locations": ["City Centre", "Benachity", "Bidhannagar", "Muchipara"]
+        },
+        {
+          "city": "Asansol",
+          "locations": ["Burnpur", "Railpar", "Ushagram", "Court More"]
+        },
+        {
+          "city": "Howrah",
+          "locations": ["Shibpur", "Santragachi", "Bally", "Kadamtala"]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "cities": [
+        {
+          "city": "Kochi",
+          "locations": ["Edappally", "Kakkanad", "Vyttila", "Fort Kochi"]
+        },
+        {
+          "city": "Thiruvananthapuram",
+          "locations": ["Kowdiar", "Pattom", "Technopark", "Kesavadasapuram"]
+        },
+        {
+          "city": "Kozhikode",
+          "locations": ["Nadakkavu", "Mavoor Road", "West Hill", "Kallai"]
+        },
+        {
+          "city": "Thrissur",
+          "locations": ["Punkunnam", "Ayyanthole", "Koorkenchery", "Ollur"]
+        },
+        {
+          "city": "Kollam",
+          "locations": ["Kadappakada", "Kavanad", "Chinnakada", "Asramam"]
+        }
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "cities": [
+        {
+          "city": "Lucknow",
+          "locations": ["Gomti Nagar", "Hazratganj", "Aliganj", "Indira Nagar"]
+        },
+        {
+          "city": "Kanpur",
+          "locations": ["Swaroop Nagar", "Kakadeo", "Civil Lines", "Arya Nagar"]
+        },
+        {
+          "city": "Noida",
+          "locations": ["Sector 18", "Sector 62", "Sector 137", "Sector 15"]
+        },
+        {
+          "city": "Agra",
+          "locations": ["Sanjay Place", "Taj Nagari", "Kamla Nagar", "Sikandra"]
+        },
+        {
+          "city": "Varanasi",
+          "locations": ["Lanka", "Sigra", "Bhelupur", "Mahmoorganj"]
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "cities": [
+        {
+          "city": "Bhopal",
+          "locations": ["MP Nagar", "Arera Colony", "Kolar Road", "Bawadia Kalan"]
+        },
+        {
+          "city": "Indore",
+          "locations": ["Vijay Nagar", "Palasia", "Rau", "Bhawarkuan"]
+        },
+        {
+          "city": "Gwalior",
+          "locations": ["City Centre", "Thatipur", "Lashkar", "Morar"]
+        },
+        {
+          "city": "Jabalpur",
+          "locations": ["Wright Town", "Napier Town", "Vijay Nagar", "Gorakhpur"]
+        },
+        {
+          "city": "Ujjain",
+          "locations": ["Freeganj", "Nanakheda", "Dewas Road", "Mahakal Area"]
+        }
+      ]
+    }
+  ]
+}
